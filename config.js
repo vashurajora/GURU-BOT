@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '➳ ⁶⁶⁶ ➢᭄࿐ᴅᴇᴍᴏɴ'
 global.premium = 'true'
-global.packname = '➳ ⁶⁶⁶ ➢᭄࿐ᴅᴇᴍᴏɴ ˡᵒʳᵈ ꜱᴀᴛᴜʀɴ 𝚇𝙳' 
-global.author = '@Asliguru' 
+global.packname = 'Typing...' 
+global.author = '⁶⁶⁶ ➢᭄࿐ᴅᴇᴍᴏɴ ˡᵒʳᵈ ꜱᴀᴛᴜʀɴ 𝚇𝙳' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
